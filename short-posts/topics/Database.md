@@ -1,0 +1,3 @@
+- [[Redis for beginner]]
+- [[Databases intro course]]
+- [[Tài liệu học SQL]]
